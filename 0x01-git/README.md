@@ -1,1 +1,1 @@
-readme in the new director
+readme in the new directory
